@@ -10,3 +10,5 @@ catboost==1.2.3
 
 ### Docker file
 docker
+
+python-dotenv
