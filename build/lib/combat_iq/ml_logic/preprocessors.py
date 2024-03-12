@@ -1,5 +1,5 @@
 import pandas as pd
-from combat_iq.ml_logic.data import get_data
+from ml_logic.data import get_data
 
 
 def preprocessed_df(red_fighter, blue_fighter):
